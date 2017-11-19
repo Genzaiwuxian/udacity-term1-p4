@@ -116,7 +116,8 @@ I implemented this step in lines # through # in my code in `yet_another_file.py`
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result]
+https://github.com/Genzaiwuxian/term1-p4/blob/master/CarND-Advanced-Lane-Lines%20-%20upload/project_video_output1.mp4
 
 ---
 
